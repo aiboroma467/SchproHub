@@ -119,7 +119,7 @@ else{
                             </a>
                         </section>
                         <div class="header-title col s3">      
-                            <span class="chapter-title"><img src="kashipara.png" alt="" height="100" width="250" style="height: 61px;"></span>
+                            <span class="chapter-title"><img src="" alt="" height="100" width="250" style="height: 61px;"></span>
                         </div>
                       
                            
